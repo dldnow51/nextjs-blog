@@ -5,8 +5,11 @@ export default function FirstPost() {
     <>
       <h1>Lee Woojae</h1>
       <h2>
-        <Link href="/">Back to home</Link>
+        <Link href="/bouncing.html">Bouncing balls</Link>
       </h2>
+      <h3>
+        <Link href="/">Back to home</Link>
+      </h3>
     </>
   );
 }
